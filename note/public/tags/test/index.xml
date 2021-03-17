@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on yamamoto nouen IT note</title>
+    <link>https://examplesite.com/tags/test/</link>
+    <description>Recent content in test on yamamoto nouen IT note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2021 02:08:05 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bbbbbb</title>
+      <link>https://examplesite.com/posts/bbbbbb/</link>
+      <pubDate>Thu, 18 Mar 2021 02:08:05 +0900</pubDate>
+      
+      <guid>https://examplesite.com/posts/bbbbbb/</guid>
+      <description>asdfdfsdafasdfs
+ </description>
+    </item>
+    
+  </channel>
+</rss>
